@@ -81,19 +81,6 @@ Driven by a passion for Artificial Intelligence, I am pursuing a Bachelor's degr
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=MukibHossain&show_icons=true&theme=default&count_private=true" alt="MukibHossain's GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=MukibHossain&theme=default" alt="MukibHossain's Streak Stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MukibHossain&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ### 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MukibHossain)
