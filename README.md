@@ -89,6 +89,11 @@ Driven by a passion for Artificial Intelligence, I am pursuing a Bachelor's degr
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-7679-2347)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Al-Hossain-Mukib)
 
+### 📫 Connect With Me
+
+📧 **Email:** mdalhossainmukib@gmail.com
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MukibHossain)
 ---
 
 <p align="center"><i>Thanks for visiting my profile! ⭐ from a research idea might become tomorrow's application.</i></p>
