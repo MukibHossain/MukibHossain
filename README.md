@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📍 Based in Bangladesh &nbsp;|&nbsp; 🎓 B.Sc. in Computer Science & Engineering (Undergraduate)
+  📍 Based in Dhaka, Bangladesh &nbsp;|&nbsp; 🎓 B.Sc. in Computer Science & Engineering (Undergraduate)
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 Driven by a passion for Artificial Intelligence, I am pursuing a Bachelor's degree in Computer Science with research interests in Machine Learning, Deep Learning, Computer Vision, and Multimodal Learning. I enjoy developing intelligent, data-driven solutions, exploring state-of-the-art models, and turning research ideas into practical applications.
 
-🎯 **Long-term goal:** Pursue a fully funded PhD in AI and contribute to impactful research with real-world applications.
+🎯 **Long-term goal:** Pursue Master's and PhD in AI and contribute to impactful research with real-world applications.
 
 **🔬 Research Interests**
 - Artificial Intelligence
